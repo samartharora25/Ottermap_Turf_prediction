@@ -93,6 +93,6 @@ The pipeline successfully differentiates between flat turf and volumetric vegeta
 ├── advanced-turf.ipynb        # Core experimental pipeline and model training
 └── README.md                  # This documentation
 
----
-##Created by Samarth Arora
----
+----
+### 👨‍💻 Created by [Samarth Arora](https://www.linkedin.com/in/samarth-arora-489b79246/)
+*Feel free to reach out if you have any questions about this pipeline!*
